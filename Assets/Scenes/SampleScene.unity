@@ -20,7 +20,7 @@ RenderSettings:
   m_FogDensity: 0.01
   m_LinearFogStart: 0
   m_LinearFogEnd: 300
-  m_AmbientSkyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
+  m_AmbientSkyColor: {r: 0, g: 0, b: 0, a: 1}
   m_AmbientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
   m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
   m_AmbientIntensity: 1
@@ -133,6 +133,7 @@ GameObject:
   - component: {fileID: 519420031}
   - component: {fileID: 519420029}
   - component: {fileID: 519420030}
+  - component: {fileID: 519420033}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -219,12 +220,39 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalPosition: {x: 1.52, y: 1.12, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &519420033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 519420028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9f5ab3c459ede047841f71bbec910d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Levels:
+  - {fileID: 11400000, guid: 6fd7cfcb2096e5d4a89d8f033647cc3b, type: 2}
+  LevelObjects:
+  - {fileID: 11400000, guid: 2b2f1d16806d8184c84583bfecb8db79, type: 2}
+  - {fileID: 11400000, guid: 18d3fb5123885e64195cd81381de21a8, type: 2}
+  - {fileID: 11400000, guid: 41e2a668abf2fc44d9625bc31d6e76e7, type: 2}
+  - {fileID: 11400000, guid: 06d11c4d164c47f48bb17144a270ff39, type: 2}
+  - {fileID: 11400000, guid: 43e6a6272c6d27e4cb6ae624799ac71f, type: 2}
+  - {fileID: 11400000, guid: a341095e6aeb0404a88b766be45cc801, type: 2}
+  - {fileID: 11400000, guid: 5da88bce04272ea47bd48967c679b971, type: 2}
+  - {fileID: 11400000, guid: 7a10b150ab53328488f3cd5c742a63b8, type: 2}
+  - {fileID: 11400000, guid: 47b5ae23cd55a9b4bba34f62bd6fe620, type: 2}
+  - {fileID: 11400000, guid: 9c414db31c3f47a4b9890d07f0c312ab, type: 2}
+  w: 20
+  h: 15
 --- !u!1 &1007290717
 GameObject:
   m_ObjectHideFlags: 0
@@ -388,4 +416,56 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1515207574
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1515207576}
+  - component: {fileID: 1515207575}
+  m_Layer: 0
+  m_Name: WallSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1515207575
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1515207574}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c61629036a26b249b76afcfc89e15a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Walls:
+  - {fileID: -4160367441436189066, guid: fd4d70d4f38d6c34d8b67fd1a4a5ffb1, type: 3}
+  - {fileID: -2111955497899611862, guid: fd4d70d4f38d6c34d8b67fd1a4a5ffb1, type: 3}
+  - {fileID: 5325730213424263277, guid: fd4d70d4f38d6c34d8b67fd1a4a5ffb1, type: 3}
+  - {fileID: -8784762872034960445, guid: fd4d70d4f38d6c34d8b67fd1a4a5ffb1, type: 3}
+  - {fileID: 2913983187436611982, guid: fd4d70d4f38d6c34d8b67fd1a4a5ffb1, type: 3}
+  w: 20
+  h: 15
+  mat: {fileID: 2100000, guid: ddf15beab4bc91c43bfdefd2b4c4b530, type: 2}
+--- !u!4 &1515207576
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1515207574}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
