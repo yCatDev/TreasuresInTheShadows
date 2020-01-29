@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -10,6 +11,7 @@ public class PlayerMovement : MonoBehaviour
     private float moveInput;
 
     private Rigidbody2D rb;
+    private Animator animator;
 
     private bool facingRight = true;
 
@@ -25,6 +27,8 @@ public class PlayerMovement : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         rb.freezeRotation = true;
+
+        animator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -33,6 +37,12 @@ public class PlayerMovement : MonoBehaviour
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, checkRadius, whatIsGround);
 
         moveInput = Input.GetAxis("Horizontal");
+        
+        if (moveInput==0)
+            animator.SetBool("Run", false);
+        else
+            animator.SetBool("Run", true);
+
         rb.velocity = new Vector2(moveInput*speed, rb.velocity.y);
 
         if (!facingRight && moveInput>0)
@@ -43,8 +53,11 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.UpArrow))
+        if (Input.GetKeyDown(KeyCode.UpArrow) && isGrounded)
+        {
             rb.velocity = Vector2.up * jumpForce;
+        }
+        animator.SetBool("Jump", !isGrounded);
     }
 
     void Flip()

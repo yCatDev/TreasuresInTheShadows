@@ -529,9 +529,9 @@ Light:
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 1
-  m_Range: 10
-  m_SpotAngle: 30
-  m_InnerSpotAngle: 21.80208
+  m_Range: 12
+  m_SpotAngle: 20
+  m_InnerSpotAngle: 2
   m_CookieSize: 10
   m_Shadows:
     m_Type: 0
@@ -604,6 +604,7 @@ GameObject:
   - component: {fileID: 1977062782}
   - component: {fileID: 1977062783}
   - component: {fileID: 1977062781}
+  - component: {fileID: 1977062784}
   m_Layer: 0
   m_Name: idle
   m_TagString: Untagged
@@ -736,10 +737,29 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b753838ad1991d044bb5cc260d72d20e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1.2
-  jumpForce: 2.5
+  speed: 0.75
+  jumpForce: 3
   groundCheck: {fileID: 1085754568}
-  checkRadius: 0.5
+  checkRadius: 0.05
   whatIsGround:
     serializedVersion: 2
     m_Bits: 256
+--- !u!95 &1977062784
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1977062778}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: acf6baee2c14575469554d4a91c9b3e5, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
