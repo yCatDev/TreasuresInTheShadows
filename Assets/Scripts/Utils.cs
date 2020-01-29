@@ -15,4 +15,13 @@ public static class Utils
 
         return vec;
     }
+    public static Vector2 SetVec(this Vector2 vec, float x = float.NaN, float y = float.NaN)
+    {
+        if (!float.IsNaN(vec.x))
+            vec.x = x;
+        if (!float.IsNaN(vec.y))
+            vec.y = y;
+
+        return vec;
+    }
 }

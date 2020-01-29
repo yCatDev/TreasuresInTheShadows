@@ -32,7 +32,7 @@ public class WallSpawner : MonoBehaviour
         var spr = wallTile.AddComponent<SpriteRenderer>();
         spr.material = mat;
         spr.sprite = Walls[Random.Range(0, Walls.Length - 1)];
-        wallTile.transform.position = new Vector3(0.01f*x, 0.01f * y,0.3f);
+        wallTile.transform.position = new Vector3(0.01f*x, 0.01f * y,1f);
         
     }
 
