@@ -7,15 +7,13 @@ using Random = UnityEngine.Random;
 public class WallSpawner : MonoBehaviour
 {
     public Sprite[] Walls;
-    public float w, h;
+    //public float w, h;
     public Material mat;
 
     // Start is called before the first frame update
     void Start()
     {
-        for (int i = 0; i < w; i++)
-            for (int j = 0; j < h; j++)
-                CreateTile(i * 16, j * 16);
+        
     }
 
     // Update is called once per frame
@@ -24,7 +22,14 @@ public class WallSpawner : MonoBehaviour
         
     }
 
-    void CreateTile(float x, float y)
+    public void CreateWall(int w, int h)
+    {
+        for (int i = 0; i < w; i++)
+        for (int j = 0; j < h; j++)
+            CreateTile(i * 16, j * 16);
+    }
+
+    private void CreateTile(float x, float y)
     {
         GameObject obj = new GameObject("Wall_tile");
         var wallTile = Instantiate(obj,transform);

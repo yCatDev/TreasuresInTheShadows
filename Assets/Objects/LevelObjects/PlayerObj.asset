@@ -10,9 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 0}
-  m_Name: LevelTest
-  m_EditorClassIdentifier: Assembly-CSharp::Level
-  LevelName: 
-  File: {fileID: 4900000, guid: 2028de11a3a00b74586f068cf120f763, type: 3}
-  Width: 20
-  Height: 15
+  m_Name: PlayerObj
+  m_EditorClassIdentifier: Assembly-CSharp::LevelObject
+  TiledIndex: 3
+  tiles:
+  - {fileID: 4597446954290074676, guid: 9523465de4088924ba921cab2a3e3abe, type: 3}

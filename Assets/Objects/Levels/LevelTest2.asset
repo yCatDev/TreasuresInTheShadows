@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 0}
-  m_Name: LevelTest
+  m_Name: LevelTest2
   m_EditorClassIdentifier: Assembly-CSharp::Level
   LevelName: 
-  File: {fileID: 4900000, guid: 2028de11a3a00b74586f068cf120f763, type: 3}
-  Width: 20
-  Height: 15
+  File: {fileID: 4900000, guid: d66d23f73689f994181549b54182f8dc, type: 3}
+  Width: 30
+  Height: 30
