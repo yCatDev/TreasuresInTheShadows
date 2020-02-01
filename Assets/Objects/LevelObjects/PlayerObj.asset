@@ -12,6 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 0}
   m_Name: PlayerObj
   m_EditorClassIdentifier: Assembly-CSharp::LevelObject
-  TiledIndex: 3
-  tiles:
-  - {fileID: 4597446954290074676, guid: 9523465de4088924ba921cab2a3e3abe, type: 3}
+  Index: 48
+  Obj: {fileID: 4597446954290074676, guid: 9523465de4088924ba921cab2a3e3abe, type: 3}

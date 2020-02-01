@@ -4,163 +4,163 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: -3559044901509817158
-    second: Game_Assets_0
+    second: left_floor_h
   - first:
       213: -889734080675829032
-    second: Game_Assets_1
+    second: rigth_floor_h
   - first:
       213: 7302049995358876697
-    second: Game_Assets_2
+    second: floor
   - first:
       213: 2412037888244316395
-    second: Game_Assets_3
+    second: corner_1
   - first:
       213: -8882343867509334152
-    second: Game_Assets_4
+    second: corner_2
   - first:
       213: 5746040712341034530
-    second: Game_Assets_5
+    second: unused_2
   - first:
       213: -4648535768226440957
-    second: Game_Assets_6
+    second: door_1
   - first:
       213: -8244242997266392971
-    second: Game_Assets_7
+    second: gem_1
   - first:
       213: 6866858649307381444
-    second: Game_Assets_8
+    second: stone_platform_left
   - first:
       213: 1505841641249114670
-    second: Game_Assets_9
+    second: stone_platform_middle
   - first:
       213: -1908995890163007311
-    second: Game_Assets_10
+    second: stone_platform_right
   - first:
       213: 5340403269881655465
-    second: Game_Assets_11
+    second: corner_3
   - first:
       213: 9025249859960806497
-    second: Game_Assets_12
+    second: corner_4
   - first:
       213: -8818467832879141144
-    second: Game_Assets_13
+    second: unused_3
   - first:
       213: 8595509078402763529
-    second: Game_Assets_14
+    second: door_2
   - first:
       213: -2697395461082500690
-    second: Game_Assets_15
+    second: gem_2
   - first:
       213: -1727165585419260828
-    second: Game_Assets_16
+    second: wooden_platform
   - first:
       213: -783228975285105656
-    second: Game_Assets_17
+    second: block
   - first:
       213: 2339152266499504727
-    second: Game_Assets_18
+    second: inner_wall
   - first:
       213: 6259415036767945226
-    second: Game_Assets_19
+    second: unused_1
   - first:
       213: -3477784715993982604
-    second: Game_Assets_20
+    second: spikes
   - first:
       213: -6951132375511665606
-    second: Game_Assets_21
+    second: spikes_over
   - first:
       213: -3412568495889121831
-    second: Game_Assets_22
+    second: open_door_1
   - first:
       213: 7163660032173192302
-    second: Game_Assets_23
+    second: gem_3
   - first:
       213: -2539519467840892217
-    second: Game_Assets_24
+    second: inner_wall_1
   - first:
       213: -4088650231098938744
-    second: Game_Assets_25
+    second: inner_wall_2
   - first:
       213: 6642085184988067804
-    second: Game_Assets_26
+    second: inner_wall_3
   - first:
       213: -8705314668468370832
-    second: Game_Assets_27
+    second: inner_wall_4
   - first:
       213: 8020651317111111461
-    second: Game_Assets_28
+    second: moving_spikes_1
   - first:
       213: -5011296005334676543
-    second: Game_Assets_29
+    second: moving_spikes_1_over
   - first:
       213: -5717841851423806906
-    second: Game_Assets_30
+    second: open_door_2
   - first:
       213: -6527015255584917899
-    second: Game_Assets_31
+    second: gem_4
   - first:
       213: 5282470031855306466
-    second: Game_Assets_32
+    second: wall_1
   - first:
       213: -8649455181791535330
-    second: Game_Assets_33
+    second: wall_2
   - first:
       213: 8565513224221544884
-    second: Game_Assets_34
+    second: wall_3
   - first:
       213: -5850523799034015089
-    second: Game_Assets_35
+    second: wall_4
   - first:
       213: 3853153687118898154
-    second: Game_Assets_36
+    second: moving_spikes_2
   - first:
       213: 673960803691026081
-    second: Game_Assets_37
+    second: moving_spikes_2_over
   - first:
       213: -5944329380338990749
-    second: Game_Assets_38
+    second: mech_door_close
   - first:
       213: 9135478062310395561
-    second: Game_Assets_39
+    second: gem_5
   - first:
       213: -132905846936551218
-    second: Game_Assets_40
+    second: wall_5
   - first:
       213: -5820870887483202085
-    second: Game_Assets_41
+    second: wall_6
   - first:
       213: 5657066942656911391
-    second: Game_Assets_42
+    second: wall_7
   - first:
       213: -8374280066216066670
-    second: Game_Assets_43
+    second: wall_8
   - first:
       213: -1421915798691199128
-    second: Game_Assets_44
+    second: toggle_off
   - first:
       213: 1684224532802492202
-    second: Game_Assets_45
+    second: toggle_on
   - first:
       213: -689384373524383453
-    second: Game_Assets_46
+    second: mech_door_open
   - first:
       213: 1966011406970316166
-    second: Game_Assets_47
+    second: player_idle
   - first:
       213: 2483925957762600445
-    second: Game_Assets_48
+    second: player_r1
   - first:
       213: 1564820771864267069
-    second: Game_Assets_49
+    second: player_r2
   - first:
       213: 6569615806926013353
-    second: Game_Assets_50
+    second: player_r3
   - first:
       213: 4584130889380663632
-    second: Game_Assets_51
+    second: player_r4
   - first:
       213: 7814440384820094979
-    second: Game_Assets_52
+    second: player_jump
   - first:
       213: -4019513701736140445
     second: Game_Assets_53
@@ -418,163 +418,163 @@ TextureImporter:
     second: Game_Assets_137
   - first:
       213: 5621674293812030574
-    second: Game_Assets_0
+    second: left_floor_h
   - first:
       213: -9011432292455144912
-    second: Game_Assets_1
+    second: rigth_floor_h
   - first:
       213: -1836682886216719010
-    second: Game_Assets_2
+    second: floor
   - first:
       213: 6195636123753872640
-    second: Game_Assets_3
+    second: corner_1
   - first:
       213: 6394460095077112576
-    second: Game_Assets_4
+    second: corner_2
   - first:
       213: 2279507116326013748
-    second: Game_Assets_5
+    second: unused_2
   - first:
       213: 638968694443589420
-    second: Game_Assets_6
+    second: door_1
   - first:
       213: -4416586725639414535
-    second: Game_Assets_7
+    second: gem_1
   - first:
       213: -658496930662734451
-    second: Game_Assets_8
+    second: stone_platform_left
   - first:
       213: -3415421806691917649
-    second: Game_Assets_9
+    second: stone_platform_middle
   - first:
       213: 5406788627475126826
-    second: Game_Assets_10
+    second: stone_platform_right
   - first:
       213: 6405824126662307190
-    second: Game_Assets_11
+    second: corner_3
   - first:
       213: -2399631199135776677
-    second: Game_Assets_12
+    second: corner_4
   - first:
       213: 440000053019283280
-    second: Game_Assets_13
+    second: unused_3
   - first:
       213: -1576595933251785704
-    second: Game_Assets_14
+    second: door_2
   - first:
       213: -4167761247839781867
-    second: Game_Assets_15
+    second: gem_2
   - first:
       213: -5993160801554145815
-    second: Game_Assets_16
+    second: wooden_platform
   - first:
       213: -5669279268614394576
-    second: Game_Assets_17
+    second: block
   - first:
       213: -1073833069807419036
-    second: Game_Assets_18
+    second: inner_wall
   - first:
       213: 2310454529728905554
-    second: Game_Assets_19
+    second: unused_1
   - first:
       213: -6858498502808652175
-    second: Game_Assets_20
+    second: spikes
   - first:
       213: 2477583798371179259
-    second: Game_Assets_21
+    second: spikes_over
   - first:
       213: 1168803932322518757
-    second: Game_Assets_22
+    second: open_door_1
   - first:
       213: -708117078460092491
-    second: Game_Assets_23
+    second: gem_3
   - first:
       213: -7941761985062833602
-    second: Game_Assets_24
+    second: inner_wall_1
   - first:
       213: -5738436587008768288
-    second: Game_Assets_25
+    second: inner_wall_2
   - first:
       213: 2511066695764006743
-    second: Game_Assets_26
+    second: inner_wall_3
   - first:
       213: -7956472393458971959
-    second: Game_Assets_27
+    second: inner_wall_4
   - first:
       213: -4859816530174778990
-    second: Game_Assets_28
+    second: moving_spikes_1
   - first:
       213: 8643272418411396100
-    second: Game_Assets_29
+    second: moving_spikes_1_over
   - first:
       213: -5728132497624393616
-    second: Game_Assets_30
+    second: open_door_2
   - first:
       213: 7938609547595144271
-    second: Game_Assets_31
+    second: gem_4
   - first:
       213: -2201292918974863448
-    second: Game_Assets_32
+    second: wall_1
   - first:
       213: -2023555394042265963
-    second: Game_Assets_33
+    second: wall_2
   - first:
       213: -1241192148742232792
-    second: Game_Assets_34
+    second: wall_3
   - first:
       213: 4129813265070470562
-    second: Game_Assets_35
+    second: wall_4
   - first:
       213: -2734562041045196726
-    second: Game_Assets_36
+    second: moving_spikes_2
   - first:
       213: 8923826309582618841
-    second: Game_Assets_37
+    second: moving_spikes_2_over
   - first:
       213: 261779709065807370
-    second: Game_Assets_38
+    second: mech_door_close
   - first:
       213: 2848649168782502348
-    second: Game_Assets_39
+    second: gem_5
   - first:
       213: -7797158469508220099
-    second: Game_Assets_40
+    second: wall_5
   - first:
       213: -6484193468508322805
-    second: Game_Assets_41
+    second: wall_6
   - first:
       213: -5849159845347591714
-    second: Game_Assets_42
+    second: wall_7
   - first:
       213: -7861159104119406225
-    second: Game_Assets_43
+    second: wall_8
   - first:
       213: -2027364938844116465
-    second: Game_Assets_44
+    second: toggle_off
   - first:
       213: 5961623611837964093
-    second: Game_Assets_45
+    second: toggle_on
   - first:
       213: -2357927108728269217
-    second: Game_Assets_46
+    second: mech_door_open
   - first:
       213: 8111873568461102556
-    second: Game_Assets_47
+    second: player_idle
   - first:
       213: -1284186581184329177
-    second: Game_Assets_48
+    second: player_r1
   - first:
       213: -5000228023681297495
-    second: Game_Assets_49
+    second: player_r2
   - first:
       213: -399736899791475864
-    second: Game_Assets_50
+    second: player_r3
   - first:
       213: 4959079487969117289
-    second: Game_Assets_51
+    second: player_r4
   - first:
       213: -4408652004363472019
-    second: Game_Assets_52
+    second: player_jump
   - first:
       213: -1301340397849479849
     second: Game_Assets_53
@@ -950,11 +950,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Game_Assets_0
+      name: left_floor_h
       rect:
         serializedVersion: 2
         x: 0
-        y: 160
+        y: 96
         width: 16
         height: 16
       alignment: 0
@@ -971,11 +971,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_1
+      name: rigth_floor_h
       rect:
         serializedVersion: 2
         x: 16
-        y: 160
+        y: 96
         width: 16
         height: 16
       alignment: 0
@@ -992,11 +992,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_2
+      name: floor
       rect:
         serializedVersion: 2
         x: 32
-        y: 160
+        y: 96
         width: 16
         height: 16
       alignment: 0
@@ -1013,11 +1013,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_3
+      name: corner_1
       rect:
         serializedVersion: 2
         x: 48
-        y: 160
+        y: 96
         width: 16
         height: 16
       alignment: 0
@@ -1034,11 +1034,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_4
+      name: corner_2
       rect:
         serializedVersion: 2
         x: 64
-        y: 160
+        y: 96
         width: 16
         height: 16
       alignment: 0
@@ -1055,11 +1055,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_5
+      name: unused_2
       rect:
         serializedVersion: 2
         x: 80
-        y: 160
+        y: 96
         width: 16
         height: 16
       alignment: 0
@@ -1076,11 +1076,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_6
+      name: door_1
       rect:
         serializedVersion: 2
         x: 96
-        y: 160
+        y: 96
         width: 16
         height: 16
       alignment: 0
@@ -1097,11 +1097,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_7
+      name: gem_1
       rect:
         serializedVersion: 2
         x: 112
-        y: 160
+        y: 96
         width: 16
         height: 16
       alignment: 0
@@ -1118,11 +1118,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_8
+      name: stone_platform_left
       rect:
         serializedVersion: 2
-        x: 128
-        y: 160
+        x: 0
+        y: 80
         width: 16
         height: 16
       alignment: 0
@@ -1139,11 +1139,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_9
+      name: stone_platform_middle
       rect:
         serializedVersion: 2
-        x: 144
-        y: 160
+        x: 16
+        y: 80
         width: 16
         height: 16
       alignment: 0
@@ -1160,11 +1160,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_10
+      name: stone_platform_right
       rect:
         serializedVersion: 2
-        x: 160
-        y: 160
+        x: 32
+        y: 80
         width: 16
         height: 16
       alignment: 0
@@ -1181,11 +1181,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_11
+      name: corner_3
       rect:
         serializedVersion: 2
-        x: 176
-        y: 160
+        x: 48
+        y: 80
         width: 16
         height: 16
       alignment: 0
@@ -1202,11 +1202,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_12
+      name: corner_4
       rect:
         serializedVersion: 2
-        x: 192
-        y: 160
+        x: 64
+        y: 80
         width: 16
         height: 16
       alignment: 0
@@ -1223,11 +1223,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_13
+      name: unused_3
       rect:
         serializedVersion: 2
-        x: 208
-        y: 160
+        x: 80
+        y: 80
         width: 16
         height: 16
       alignment: 0
@@ -1244,11 +1244,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_14
+      name: door_2
       rect:
         serializedVersion: 2
-        x: 224
-        y: 160
+        x: 96
+        y: 80
         width: 16
         height: 16
       alignment: 0
@@ -1265,11 +1265,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_15
+      name: gem_2
       rect:
         serializedVersion: 2
-        x: 240
-        y: 160
+        x: 112
+        y: 80
         width: 16
         height: 16
       alignment: 0
@@ -1286,11 +1286,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_16
+      name: wooden_platform
       rect:
         serializedVersion: 2
         x: 0
-        y: 144
+        y: 64
         width: 16
         height: 16
       alignment: 0
@@ -1307,11 +1307,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_17
+      name: block
       rect:
         serializedVersion: 2
         x: 16
-        y: 144
+        y: 64
         width: 16
         height: 16
       alignment: 0
@@ -1328,11 +1328,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_18
+      name: inner_wall
       rect:
         serializedVersion: 2
         x: 32
-        y: 144
+        y: 64
         width: 16
         height: 16
       alignment: 0
@@ -1349,11 +1349,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_19
+      name: unused_1
       rect:
         serializedVersion: 2
         x: 48
-        y: 144
+        y: 64
         width: 16
         height: 16
       alignment: 0
@@ -1370,11 +1370,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_20
+      name: spikes
       rect:
         serializedVersion: 2
         x: 64
-        y: 144
+        y: 64
         width: 16
         height: 16
       alignment: 0
@@ -1391,11 +1391,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_21
+      name: spikes_over
       rect:
         serializedVersion: 2
         x: 80
-        y: 144
+        y: 64
         width: 16
         height: 16
       alignment: 0
@@ -1412,11 +1412,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_22
+      name: open_door_1
       rect:
         serializedVersion: 2
         x: 96
-        y: 144
+        y: 64
         width: 16
         height: 16
       alignment: 0
@@ -1433,11 +1433,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_23
+      name: gem_3
       rect:
         serializedVersion: 2
         x: 112
-        y: 144
+        y: 64
         width: 16
         height: 16
       alignment: 0
@@ -1454,11 +1454,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_24
+      name: inner_wall_1
       rect:
         serializedVersion: 2
-        x: 128
-        y: 144
+        x: 0
+        y: 48
         width: 16
         height: 16
       alignment: 0
@@ -1475,11 +1475,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_25
+      name: inner_wall_2
       rect:
         serializedVersion: 2
-        x: 144
-        y: 144
+        x: 16
+        y: 48
         width: 16
         height: 16
       alignment: 0
@@ -1496,11 +1496,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_26
+      name: inner_wall_3
       rect:
         serializedVersion: 2
-        x: 160
-        y: 144
+        x: 32
+        y: 48
         width: 16
         height: 16
       alignment: 0
@@ -1517,11 +1517,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_27
+      name: inner_wall_4
       rect:
         serializedVersion: 2
-        x: 176
-        y: 144
+        x: 48
+        y: 48
         width: 16
         height: 16
       alignment: 0
@@ -1538,11 +1538,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_28
+      name: moving_spikes_1
       rect:
         serializedVersion: 2
-        x: 192
-        y: 144
+        x: 64
+        y: 48
         width: 16
         height: 16
       alignment: 0
@@ -1559,11 +1559,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_29
+      name: moving_spikes_1_over
       rect:
         serializedVersion: 2
-        x: 208
-        y: 144
+        x: 80
+        y: 48
         width: 16
         height: 16
       alignment: 0
@@ -1580,11 +1580,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_30
+      name: open_door_2
       rect:
         serializedVersion: 2
-        x: 224
-        y: 144
+        x: 96
+        y: 48
         width: 16
         height: 16
       alignment: 0
@@ -1601,11 +1601,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_31
+      name: gem_4
       rect:
         serializedVersion: 2
-        x: 240
-        y: 144
+        x: 112
+        y: 48
         width: 16
         height: 16
       alignment: 0
@@ -1622,11 +1622,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_32
+      name: wall_1
       rect:
         serializedVersion: 2
         x: 0
-        y: 128
+        y: 32
         width: 16
         height: 16
       alignment: 0
@@ -1643,11 +1643,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_33
+      name: wall_2
       rect:
         serializedVersion: 2
-        x: 32
-        y: 128
+        x: 16
+        y: 32
         width: 16
         height: 16
       alignment: 0
@@ -1664,11 +1664,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_34
+      name: wall_3
       rect:
         serializedVersion: 2
-        x: 48
-        y: 128
+        x: 32
+        y: 32
         width: 16
         height: 16
       alignment: 0
@@ -1685,11 +1685,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_35
+      name: wall_4
       rect:
         serializedVersion: 2
-        x: 64
-        y: 128
+        x: 48
+        y: 32
         width: 16
         height: 16
       alignment: 0
@@ -1706,11 +1706,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_36
+      name: moving_spikes_2
       rect:
         serializedVersion: 2
-        x: 80
-        y: 128
+        x: 64
+        y: 32
         width: 16
         height: 16
       alignment: 0
@@ -1727,11 +1727,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_37
+      name: moving_spikes_2_over
       rect:
         serializedVersion: 2
-        x: 96
-        y: 128
+        x: 80
+        y: 32
         width: 16
         height: 16
       alignment: 0
@@ -1748,11 +1748,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_38
+      name: mech_door_close
       rect:
         serializedVersion: 2
-        x: 112
-        y: 128
+        x: 96
+        y: 32
         width: 16
         height: 16
       alignment: 0
@@ -1769,11 +1769,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_39
+      name: gem_5
       rect:
         serializedVersion: 2
-        x: 128
-        y: 128
+        x: 112
+        y: 32
         width: 16
         height: 16
       alignment: 0
@@ -1790,11 +1790,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_40
+      name: wall_5
       rect:
         serializedVersion: 2
-        x: 144
-        y: 128
+        x: 0
+        y: 16
         width: 16
         height: 16
       alignment: 0
@@ -1811,11 +1811,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_41
+      name: wall_6
       rect:
         serializedVersion: 2
-        x: 160
-        y: 128
+        x: 16
+        y: 16
         width: 16
         height: 16
       alignment: 0
@@ -1832,11 +1832,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_42
+      name: wall_7
       rect:
         serializedVersion: 2
-        x: 176
-        y: 128
+        x: 32
+        y: 16
         width: 16
         height: 16
       alignment: 0
@@ -1853,11 +1853,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_43
+      name: wall_8
       rect:
         serializedVersion: 2
-        x: 192
-        y: 128
+        x: 48
+        y: 16
         width: 16
         height: 16
       alignment: 0
@@ -1874,11 +1874,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_44
+      name: toggle_off
       rect:
         serializedVersion: 2
-        x: 208
-        y: 128
+        x: 64
+        y: 16
         width: 16
         height: 16
       alignment: 0
@@ -1895,11 +1895,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_45
+      name: toggle_on
       rect:
         serializedVersion: 2
-        x: 224
-        y: 128
+        x: 80
+        y: 16
         width: 16
         height: 16
       alignment: 0
@@ -1916,11 +1916,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_46
+      name: mech_door_open
       rect:
         serializedVersion: 2
-        x: 240
-        y: 128
+        x: 96
+        y: 16
         width: 16
         height: 16
       alignment: 0
@@ -1937,11 +1937,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_47
+      name: player_idle
       rect:
         serializedVersion: 2
         x: 0
-        y: 112
+        y: 0
         width: 16
         height: 16
       alignment: 0
@@ -1958,11 +1958,32 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_48
+      name: player_r1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdcfc88f7da87220800000000000000
+      internalID: 2483925957762600445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_r2
       rect:
         serializedVersion: 2
         x: 32
-        y: 112
+        y: 0
         width: 16
         height: 16
       alignment: 0
@@ -1972,18 +1993,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 72a4f2bbb17ad2ee0800000000000000
-      internalID: -1284186581184329177
+      spriteID: d394f14833c57b510800000000000000
+      internalID: 1564820771864267069
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_49
+      name: player_r3
       rect:
         serializedVersion: 2
         x: 48
-        y: 112
+        y: 0
         width: 16
         height: 16
       alignment: 0
@@ -1993,18 +2014,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a3d584da1f9b9ab0800000000000000
-      internalID: -5000228023681297495
+      spriteID: 9a3cd92e4c6fb2b50800000000000000
+      internalID: 6569615806926013353
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_50
+      name: player_r4
       rect:
         serializedVersion: 2
         x: 64
-        y: 112
+        y: 0
         width: 16
         height: 16
       alignment: 0
@@ -2014,1697 +2035,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86b20545869d37af0800000000000000
-      internalID: -399736899791475864
+      spriteID: 0511e6191ca1e9f30800000000000000
+      internalID: 4584130889380663632
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Game_Assets_51
+      name: player_jump
       rect:
         serializedVersion: 2
         x: 80
-        y: 112
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 964435d158032d440800000000000000
-      internalID: 4959079487969117289
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_52
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 112
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d63f99d2c5251d2c0800000000000000
-      internalID: -4408652004363472019
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_53
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 96
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 755f05e8dc5b0fde0800000000000000
-      internalID: -1301340397849479849
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_54
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 96
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c499ca280030231e0800000000000000
-      internalID: -2219708365613000372
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_55
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 96
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a22323adba6f86150800000000000000
-      internalID: 5866209732610634282
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_56
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 96
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 385ea45c57fd1ead0800000000000000
-      internalID: -2674611006767176317
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_57
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 96
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cfe1765b88203a140800000000000000
-      internalID: 4729626819851394812
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_58
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 96
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e58d23df4d4536540800000000000000
-      internalID: 4999933285069150302
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_59
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7793cb04551265220800000000000000
-      internalID: 2474201695328680311
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_60
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 557aefa367654d1a0800000000000000
-      internalID: -6785703672744597675
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_61
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e355f207523ded1f0800000000000000
-      internalID: -1018144307989752514
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_62
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0e57acc63c47dbcf0800000000000000
-      internalID: -234903222860745248
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_63
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a76df3974eeff6240800000000000000
-      internalID: 4787325186158351994
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_64
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4a5d4ebf5e4f32d00800000000000000
-      internalID: 946869615288702372
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_65
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 90601700b2c1ac200800000000000000
-      internalID: 201004104387986953
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_66
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c6d05dde9a4b4a340800000000000000
-      internalID: 4874219338654354796
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_67
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1455839fcdab51c20800000000000000
-      internalID: 3176650570416543041
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_68
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3bc0530b8599549e0800000000000000
-      internalID: -1637734283286868813
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_69
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c66d8b9912a058a10800000000000000
-      internalID: 1910944756317869676
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_70
-      rect:
-        serializedVersion: 2
-        x: 176
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 058f05f0ee041a220800000000000000
-      internalID: 2495347059743324240
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_71
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b789b7cf1ba6c8b40800000000000000
-      internalID: 5443843362261801083
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_72
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 51b7b308cf1525ba0800000000000000
-      internalID: -6101724400208610539
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_73
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4e22fd32fe50c6da0800000000000000
-      internalID: -5950374483006119196
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_74
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 648f3a0dcdb14c290800000000000000
-      internalID: -7871135613529622458
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_75
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fb4b0963c4445ca10800000000000000
-      internalID: 1929023109521781951
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_76
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c9e56680764a2fe00800000000000000
-      internalID: 1077104023324483228
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_77
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b89bf303febaac3b0800000000000000
-      internalID: -5491387751829882485
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_78
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3c8389f9148840ac0800000000000000
-      internalID: -3889834362709460797
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_79
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3d5853066ec66f700800000000000000
-      internalID: 573765739248715219
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_80
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 598e59edc90f7de20800000000000000
-      internalID: 3375431002277406869
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_81
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 779a3925a4462ca50800000000000000
-      internalID: 6539899879271147895
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_82
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8e41b3bd3441b4e80800000000000000
-      internalID: -8193432815397038872
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_83
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 637fef850c6cfcde0800000000000000
-      internalID: -1310610437112400074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_84
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 97eb43da481044d20800000000000000
-      internalID: 3261733699476307577
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_85
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f27508ffede0e1310800000000000000
-      internalID: 1377554886954080047
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_86
-      rect:
-        serializedVersion: 2
-        x: 176
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cf56779ef1ad4daf0800000000000000
-      internalID: -372433038569150980
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_87
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e38c3db8886035730800000000000000
-      internalID: 3986537278684252222
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_88
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c2a0613c32c1fe710800000000000000
-      internalID: 1724628122228623916
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_89
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6431816874d12d180800000000000000
-      internalID: -9092172504678001850
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_90
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0d6795db465e644f0800000000000000
-      internalID: -844735659249142064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_91
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 47bb6d1f618dc5ed0800000000000000
-      internalID: -2423824906373907596
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_92
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4d16cb489986a8090800000000000000
-      internalID: -8031491976895634988
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_93
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c69a7f03e461fda10800000000000000
-      internalID: 1936290889877399916
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_94
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6497e295ecefd9a70800000000000000
-      internalID: 8835498206183717190
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_95
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e8c2e15671d476060800000000000000
-      internalID: 6946605713118342286
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_96
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8859ac172c906a1b0800000000000000
-      internalID: -5645814352124930680
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_97
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8e33e2320cb4054b0800000000000000
-      internalID: -5453775860149636120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_98
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c6a864ece82f9b290800000000000000
-      internalID: -7873995778320594324
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_99
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eee2e073ba90c4fb0800000000000000
-      internalID: -4662340883267571986
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_100
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 839a3cf26bd609850800000000000000
-      internalID: 6381721301236820280
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_101
-      rect:
-        serializedVersion: 2
-        x: 176
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 68c9b4fb2a5df1020800000000000000
-      internalID: 2314803628462546054
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_102
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d7445b7787074a5d0800000000000000
-      internalID: -3052190984743598979
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_103
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6b871cc75469fd240800000000000000
-      internalID: 4818735351499684022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_104
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5b2a41f2d97aeaa10800000000000000
-      internalID: 1922658384475366069
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_105
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cc8a732c8d108a530800000000000000
-      internalID: 3866342310580562124
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_106
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 674627330d4d1e640800000000000000
-      internalID: 5107597443096274038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_107
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 80d1fa0d676ff70d0800000000000000
-      internalID: -3422746201610576632
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_108
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 803c0899b62b97c50800000000000000
-      internalID: 6663553298877956872
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_109
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 507fadb0b8a9562f0800000000000000
-      internalID: -980207421893183739
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_110
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 579c3e453cf4a0320800000000000000
-      internalID: 2524918241456015733
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_111
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 269c08dfedaf15000800000000000000
-      internalID: 23075308756322658
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_112
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 642a531f1eacef380800000000000000
-      internalID: -8935481538893209018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_113
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a90da244c9c3b9490800000000000000
-      internalID: -7738524892849844070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_114
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 082c438b0068d0110800000000000000
-      internalID: 1228785610990600832
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_115
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cfd40edd32751dfa0800000000000000
-      internalID: -5777741035381699076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_116
-      rect:
-        serializedVersion: 2
-        x: 176
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1a37ec6b726047090800000000000000
-      internalID: -8037792667309018207
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_117
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 492e7f0aa46d5f420800000000000000
-      internalID: 2663270370676040340
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_118
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 251c3735add24d080800000000000000
-      internalID: -9163648926065901230
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_119
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8a33d3bd33d4ef220800000000000000
-      internalID: 2521537726490948520
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_120
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 96528679836004f60800000000000000
-      internalID: 8016414176847603049
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_121
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7a2050704368f59d0800000000000000
-      internalID: -2783358486677486937
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_122
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 69642a673c0ea13a0800000000000000
-      internalID: -6693790766019230058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_123
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3a80b5967e14f6390800000000000000
-      internalID: -7822961565558437725
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_124
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f4a9b1f57809e5340800000000000000
-      internalID: 4854476359442602575
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_125
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 98022a34a9d0f04b0800000000000000
-      internalID: -5472140066021039991
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_126
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fcd381b2ad1c70180800000000000000
-      internalID: -9149130975209833009
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_127
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 585743b4eb89057a0800000000000000
-      internalID: -6390439928165796475
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_128
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 97505a3b838b843a0800000000000000
-      internalID: -6680887493532514951
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_129
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 05ae12922e33bd600800000000000000
-      internalID: 494045630572915280
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_130
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ea9e655779adf7be0800000000000000
-      internalID: -1477221808710686290
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_131
-      rect:
-        serializedVersion: 2
-        x: 0
         y: 0
         width: 16
         height: 16
@@ -3715,134 +2056,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7c9cc69a10498300800000000000000
-      internalID: 254805336866462842
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_132
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4d78d7e5ce7641fd0800000000000000
-      internalID: -2372156838822180908
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_133
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a89dff5b7392dd3e0800000000000000
-      internalID: -2027418937993471606
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_134
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 726a276c4cd7c5590800000000000000
-      internalID: -7684128580104444377
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_135
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 201f6f370e1ea4580800000000000000
-      internalID: -8842006564254060286
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_136
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3b3c0d8d796a621c0800000000000000
-      internalID: -4528749204166622285
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Game_Assets_137
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2f61fe97ad9151e70800000000000000
-      internalID: 9085196249429120754
+      spriteID: 3082ba79028727c60800000000000000
+      internalID: 7814440384820094979
       vertices: []
       indices: 
       edges: []

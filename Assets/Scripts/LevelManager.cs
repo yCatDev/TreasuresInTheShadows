@@ -45,9 +45,9 @@ public class LevelManager : MonoBehaviour
                 {
                     foreach (var obj in LevelObjects)
                     {
-                        if (obj.TiledIndex == int.Parse(l[j]))
-                            Instantiate(obj.tiles[Random.Range(0, obj.tiles.Length-1)],
-                                new Vector3(0.01f * 16 * j, 0.01f * 16 * (h-i-1), obj.tiles[0].transform.position.z), Quaternion.identity);
+                        if (obj.Index == int.Parse(l[j]))
+                            Instantiate(obj.Obj,
+                                new Vector3(0.01f * 16 * j, 0.01f * 16 * (h-i-1), obj.Obj.transform.position.z), Quaternion.identity);
                     }
                 }
             }
@@ -85,6 +85,6 @@ public class Level: ScriptableObject
 [CreateAssetMenu(fileName = "NewLevelObject", menuName = "Create level object")]
 public class LevelObject : ScriptableObject
 {
-    public int TiledIndex = 0;
-    public GameObject[] tiles;
+    public int Index = 0;
+    public GameObject Obj;
 }

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: TestLevel
+  m_EditorClassIdentifier: Assembly-CSharp::Level
+  LevelName: 
+  File: {fileID: 4900000, guid: d26b974da389ff04489fd4f93909ac3a, type: 3}
+  Width: 30
+  Height: 15
